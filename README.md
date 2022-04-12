@@ -22,7 +22,7 @@ _2022 Goals: Becoming a Full Stack Developer._
 <!-- <img alt="Git" width="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img alt="Github" width="35" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/> -->
 
-#### Github Stats
+### Github Stats
 
 <img width="60%" alt="Yunus Emre's github stats" src="https://github-readme-stats.vercel.app/api?username=yemrekayaa&&show_icons=true&include_all_commits=true&theme=dark" />
   </div>
