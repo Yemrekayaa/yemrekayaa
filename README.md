@@ -12,15 +12,6 @@ _I like to learn something new._<br>
 _2024 Goals: Becoming a Developer :(_
   
 
-
-### Languages
-
-
-<img alt="Swift" width="35" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/> <img alt="HTML5" width="35" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> <img alt="CSS3" width="35" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/> <img alt="Bootstrap" width="35" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/> <img alt="JavaScript" width="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/> <img alt=".Net" width="35" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"/>
-
-<!-- <img alt="Git" width="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img alt="Github" width="35" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/> -->
-
 ### Github Stats
 
 <img width="60%" alt="Yunus Emre's github stats" src="https://github-readme-stats.vercel.app/api?username=yemrekayaa&&show_icons=true&include_all_commits=true&theme=dark" />
