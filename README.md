@@ -9,7 +9,7 @@
 
 _I'm a_ ___Computer Engineering___ _student._<br>
 _I like to learn something new._<br>
-_2024 Goals: Becoming a Developer :(_
+_2024 Goals: Becoming a Full Stack Developer 
   
 
 ### Github Stats
