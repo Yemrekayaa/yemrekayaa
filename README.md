@@ -7,7 +7,7 @@
 
 ### __About Me__
 
-_I'm a_ ___Computer Engineering___ _student._<br>
+_I'm a_ ___Computer Engineer._<br>
 _I like to learn something new._<br>
 _2024 Goals: Becoming a Full Stack Developer 
   
